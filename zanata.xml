@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<config xmlns="http://zanata.org/namespace/config/">
+  <url>http://localhost:8080/zanata/</url>
+  <project>AboutFedora</project>
+  <project-version>master</project-version>
+  <project-type>properties</project-type>
+
+  <locales>
+    <locale>ja</locale>
+    <locale>ja-JP</locale>
+    <locale>zh-Hans</locale>
+    <locale>zh-Hant</locale>
+    <locale>de</locale>
+    <locale>es</locale>
+    <locale>fr</locale>
+    <locale>it</locale>
+    <locale>ko</locale>
+    <locale>pt-BR</locale>
+    <locale>ru</locale>
+    <locale>en-AU</locale>
+  </locales>
+
+</config>
